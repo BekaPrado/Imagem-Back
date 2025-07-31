@@ -1,0 +1,23 @@
+{
+    "fotos": [
+      {   
+          "id": "1",
+          "imagem": "https://cdn.awsli.com.br/400x400/568/568258/produto/101888040/3dc598fd-f669-4fa3-989d-5ee0683f7575_1_201_a-photoroom-ni8l5r01nt.png", 
+          "legenda": "teste 1", 
+          "data": "31.07.2025"
+      },
+      { 
+          "id": "2",
+          "imagem": "https://cdn.awsli.com.br/400x400/568/568258/produto/101888040/3dc598fd-f669-4fa3-989d-5ee0683f7575_1_201_a-photoroom-ni8l5r01nt.png", 
+          "legenda": "teste 2", 
+          "data": "31.07.2025"
+  },
+      { 
+          "id": "3",
+          "imagem": "https://cdn.awsli.com.br/400x400/568/568258/produto/101888040/3dc598fd-f669-4fa3-989d-5ee0683f7575_1_201_a-photoroom-ni8l5r01nt.png", 
+          "legenda": "teste 3", 
+          "data": "31.07.2025"
+      }
+    ]
+  }
+  
